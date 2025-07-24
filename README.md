@@ -8,7 +8,7 @@ Despite its simplicity, the Game of Life is Turing-complete and capable of simul
 
 ## Glider Pattern
 
-![Glider GIF](https://upload.wikimedia.org/wikipedia/commons/f/f2/Game_of_life_glider.gif)
+![Glider GIF](https://datawrapper.de/cdn-cgi/image/quality=85,width=960,f=auto,fit=cover/https://kirby.datawrapper.de/media/pages/blog/game-of-life/fabcd8415b-1740123121/game-of-life-loop-cropped.gif)
 
 A **glider** is one of the most well-known patterns in Conway's Game of Life. It is a configuration of five live cells that moves diagonally across the grid. The glider cycles through four generations and reappears in its original form, shifted one cell diagonally.
 
